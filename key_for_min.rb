@@ -7,4 +7,3 @@ def key_for_min_value(hash)
     min_value.first
   end
 end
-key_for_min_value
