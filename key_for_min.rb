@@ -4,7 +4,6 @@
 def key_for_min_value(hash)
   min_value = hash.min_by {|k,v| v}
   unless min_value == nil 
-    min_value.first 
+    min_value.first
   end
-  min_by
 end
